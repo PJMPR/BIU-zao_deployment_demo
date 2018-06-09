@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/PJMPR/BIU-zao_deployment_demo.svg?branch=master)](https://travis-ci.org/PJMPR/BIU-zao_deployment_demo)
+
 # DeploymentDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
